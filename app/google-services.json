@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "607055511584",
+    "firebase_url": "https://avance-1fee8.firebaseio.com",
+    "project_id": "avance-1fee8",
+    "storage_bucket": "avance-1fee8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607055511584:android:796eebcbf3dcaf3a",
+        "android_client_info": {
+          "package_name": "com.example.hernandez.avanceproyecto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607055511584-ppmvl56tkgef7vrvk9n7d00rn55iqtfo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hernandez.avanceproyecto",
+            "certificate_hash": "11fe68192386ee50090d3a81073c2b16ae94dd4d"
+          }
+        },
+        {
+          "client_id": "607055511584-mh9hhrp22jaevbfsu5kf45ida346va8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxqmSEkKesdIJcu37Nm4TwJRhtenUgBnU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607055511584-mh9hhrp22jaevbfsu5kf45ida346va8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
